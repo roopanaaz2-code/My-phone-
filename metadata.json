@@ -1,0 +1,6 @@
+{
+  "name": "Virtual Phone",
+  "description": "Interactive Virtual Smartphone simulator equipped with Chrome browser, multi-tab web surfing, and Green VPN extension for encrypted browsing and privacy security.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
